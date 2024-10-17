@@ -1,23 +1,23 @@
-# LogTrack - Projelerinizi Güven Altına Alın ve Hataları Önleyin!
+# LogTrack - Secure Your Projects and Prevent Errors!
 
-Gelişen teknoloji ile birlikte projelerin karmaşıklığı artıyor ve bu da beraberinde bir dizi zorluk getiriyor. **LogTrack**, gelişmiş özellikleri ve esnek yapısıyla projelerinizi güven altına almak, hataları anında tespit etmek ve çözmek için tasarlanmış bir çözümdür.
+With the advancement of technology, the complexity of projects is increasing, bringing along a series of challenges. **LogTrack** is designed as a solution to secure your projects, detect errors instantly, and resolve them with its advanced features and flexible structure.
 
-## Veritabanına Rest API ile Kolayca Proje Bilgilerini Kaydedin
-LogTrack, projelerinizin temel bilgilerini **REST API** aracılığıyla veritabanına kaydetmenizi sağlar. Bu sayede projenizin gelişimini ve performansını izleyebilir, gerektiğinde müdahale edebilirsiniz.
+## Easily Save Project Information to the Database via Rest API
+LogTrack allows you to save the essential information of your projects into the database via **REST API**. This way, you can monitor the progress and performance of your project and intervene when necessary.
 
-## Exception'ları Otomatik Olarak Yakalayın ve İnceleyin
-LogTrack, loglardan otomatik olarak exception'ları yakalayabilir ve bu hataların hangi sınıf ve metodlardan kaynaklandığını belirleyebilir. Bu özellik, hata ayıklama sürecinizi hızlandırır ve projenizin güvenilirliğini artırır.
+## Automatically Capture and Analyze Exceptions
+LogTrack can automatically capture exceptions from logs and determine which class and method they originated from. This feature speeds up your debugging process and enhances the reliability of your project.
 
-## Loglara Regex Desenleri ve JSON değişkenleri ile yakalayın
-Loglarınıza daha fazla içerik ekleyerek, özel regex desenleri ve JSON değişkenleriyle daha detaylı bilgiler elde edin. Bu özellik, hataları daha iyi yakalamanıza ve çözmenize yardımcı olur.
+## Capture Logs Using Regex Patterns and JSON Variables
+By adding more content to your logs, you can obtain more detailed information using custom regex patterns and JSON variables. This feature helps you capture and solve errors more effectively.
 
-## Veritabanına Kaydedin ve Sayımı Gerçekleştirin
-LogTrack, yakalanan exception'ları veritabanına kaydederek sayımını gerçekleştirir. Bu sayede biriktirilen verilerle projeniz hakkında derinlemesine bilgi edinebilir ve gelecekte benzer hataları önleyebilirsiniz.
+## Save to Database and Perform Count
+LogTrack saves the captured exceptions into the database and performs a count. With the accumulated data, you can gain deep insights into your project and prevent similar errors in the future.
 
-## Kritik Hatalarda E-posta ve SMS Bildirimleri
-LogTrack, kritik hataları tespit ettiğinde otomatik olarak e-posta ve SMS bildirimleri gönderir. Bu sayede ekibiniz hemen harekete geçebilir ve sorunları hızla çözebilirsiniz.
+## Email and SMS Notifications for Critical Errors
+LogTrack automatically sends email and SMS notifications when critical errors are detected. This enables your team to take immediate action and quickly resolve the issues.
 
-## Esnek Yapı ve YML Dosyaları ile Kolay Konfigürasyon
-LogTrack, esnek yapısı sayesinde kullanıcıların ihtiyaçlarına uygun olarak özelleştirilebilir. **YML dosyaları** aracılığıyla program özelliklerini kolayca değiştirebilir ve uyarlayabilirsiniz.
+## Flexible Structure and Easy Configuration with YML Files
+Thanks to its flexible structure, LogTrack can be customized to meet the needs of users. You can easily modify and adapt the program features through **YML files**.
 
-**LogTrack** ile projelerinizin sağlığını kontrol altında tutun, hataları önceden tespit edin ve geliştirme sürecinizi optimize edin. LogTrack, projelerinizdeki güvenilirliği artırmak ve sorunları anında çözmek için güçlü bir araçtır. Projelerinizi LogTrack ile koruyun, daha güvenilir ve sağlam yazılımlar oluşturun!
+Keep your projects under control, detect errors in advance, and optimize your development process with **LogTrack**. LogTrack is a powerful tool for increasing the reliability of your projects and resolving issues instantly. Protect your projects with LogTrack and build more reliable and robust software!
